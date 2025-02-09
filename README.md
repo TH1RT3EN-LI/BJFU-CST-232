@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fde3c3c27f95ab11f291ecafcd172bafa19e4c0ddf8df616e8d8261f4e568eab
-size 570
+# BJFU-CST-232
+
+## 北京林业大学 信息学院 计算机23-2班
+
+![班级 Logo](https://github.com/user-attachments/assets/48f83d0f-1459-439b-b496-738d1e645c34)
+
+### 仓库介绍
+本仓库旨在为计算机23-2班的同学提供学习资源，内容将逐步完善。  
+
+⚠ **当前仓库为公有仓库**，未来可能转为私有，并通过个人授权的方式提供访问权限，以确保不宜公开的文件得到保护。
+
+### 当前包含内容：
+- 📂 **2025寒假班会相关文档**
+- 📚 **大二下学期部分课程电子书**（仅供参考）
