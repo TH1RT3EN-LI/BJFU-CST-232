@@ -2,7 +2,8 @@
 
 ## 北京林业大学 信息学院 计算机23-2班
 
-![班级 Logo](https://github.com/user-attachments/assets/48f83d0f-1459-439b-b496-738d1e645c34)
+![FINAL_复制_画板 1](https://github.com/user-attachments/assets/d2fcfb87-3454-4458-846a-ec55cd2ecad0)
+
 
 ### 仓库介绍
 本仓库旨在为计算机23-2班的同学提供学习资源，内容将逐步完善。  
